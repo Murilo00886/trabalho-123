@@ -18,13 +18,3 @@ localeats-qualidade/
         └── atividade-03-estrategia-projeto-testes.md
 ```
 
-## Como usar
-
-1. Revise os arquivos Markdown de cada atividade.
-2. Substitua os campos indicados por informações reais do estudante/equipe.
-3. Na Atividade 1, confira se a descrição dos testes corresponde ao que foi observado na aplicação.
-4. Faça commit das alterações e envie para o GitHub.
-
-Aplicação: https://local-eats-unisenac.vercel.app/
-
-> Importante: respostas marcadas como sugestão são propostas para revisão. Não declare como observado algo que não foi realmente testado.
